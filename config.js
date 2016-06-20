@@ -1,3 +1,3 @@
 module.exports = {
-  database: process.env.MONGO_URI || 'mongodb://localhost/urlshortner'
+  database: process.env.MONGODB_URI || 'mongodb://localhost/urlshortner'
 }
