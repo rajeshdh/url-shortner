@@ -27,6 +27,6 @@
     "express": "^4.14.0",
     "mongoose": "^4.5.1",
     "mongoose-auto-increment": "^5.0.1",
-    "validator": "^10.11.0"
+    "validator": "^13.5.2"
   }
 }
